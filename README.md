@@ -1,17 +1,17 @@
 # Bellabeat-Fitness-Analysis
 
 
-## Google Data Analysis
+### Google Data Analysis
 
 
-## BellaBeat Case Study 
+ BellaBeat Case Study 
 
 
 This project presents a detailed analysis of user data collected by Bellabeat, focusing on lifestyle and wellness patterns such as physical activity, sleep behavior, and overall health indicators.
-### 📊 Dashboard Insights
+ 📊 Dashboard Insights
 The Power BI dashboard includes the following sections:
 
-### 1. Daily Activity
+ 1. Daily Activity
 - Average daily steps: 7,770 (below the recommended 10,000)
 - Most users spend the majority of their day sedentary
 - Less than 25% of users achieve high activity levels
