@@ -2,6 +2,7 @@
 
 
 ## Google Data Analytics Professional Certificate | Coursera
+ ### https://www.coursera.org/professional-certificates/google-data-analytics
 
  ## BellaBeat Case Study    
 
