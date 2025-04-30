@@ -1,8 +1,7 @@
 # Bellabeat-Fitness-Analysis
 
 
-###  Google Data Analysis
-
+## Google Data Analytics Professional Certificate | Coursera
 
  ## BellaBeat Case Study    
 
