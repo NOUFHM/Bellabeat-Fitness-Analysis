@@ -4,7 +4,7 @@
 ###  Google Data Analysis
 
 
- #### BellaBeat Case Study    
+ ## BellaBeat Case Study    
 
 
 ##### This project presents a detailed analysis of user data collected by Bellabeat, focusing on lifestyle and wellness patterns such as physical activity, sleep behavior, and overall health indicators.
