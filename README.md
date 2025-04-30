@@ -1,6 +1,4 @@
 # Bellabeat-Fitness-Analysis
-
- ### Google Data Analytics Professional Certificate | Coursera
  
  ## BellaBeat Case Study    
 
@@ -49,3 +47,4 @@ Recommended Product: Leaf
 ## 🛠 Tools Used
 - Power BI
 - Excel
+ ####  This analysis is Capstone Project frome   Google Data Analytics Professional Certificate | Coursera
