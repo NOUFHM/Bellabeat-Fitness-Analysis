@@ -23,9 +23,9 @@ To identify patterns in physical activity, sleep behavior, and wellness that Bel
 ## Key Deliverables
 - [Final Project Report (pdf)](./Reports/Bellabeat_Project_Report_Final.pdf)
 - [Bellabeat Data_Cleaning_Steps (pdf)](./Reports/Data_Cleaning_Steps.pdf)
-- [Power BI Dashboard Report (Pdf)](./Dashboards/Bellabeat_Dashboard.pdf) 
-- [Power BI Dashboard Visual (Pdf)](./Dashboards/Power_BI_Dashboards_Visual.pdf)
-- [Power BI Dashboard File (Pbix)](./Dashboards/Dashboards_Bellbeat.pbix) 
+- [Power BI Dashboard Report (Pdf)](./Dashboards/Bellabeat_Dashboard_Analysis.pdf) 
+- [Power BI Dashboard Visual (Pdf)](./Dashboards/Dashboards_Visual.pdf)
+- [Power BI Dashboard File (Pbix)](./Dashboards/Bellbeat_Dashboards_File.pbix) 
 - [R Analysis Report (Rmd)](./R_analysis/relationship_analysis_R.Rmd)  
 - [R Visual Report (HTML)](./R_analysis/relationship_analysis_R.html)
 - [R Visual Report (pdf)](./R_analysis/relationship_analysis_R.pdf)
