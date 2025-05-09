@@ -1,5 +1,5 @@
-# Bellabeat Case Study
 # Bellabeat-Fitness-Analysis
+# Bellabeat Case Study
 **Date:** April 2025  
 **Author:** Nouf Alanazi
 
@@ -31,7 +31,7 @@ To identify patterns in physical activity, sleep behavior, and wellness that Bel
 - [R Visual Report (pdf)](./R_analysis/relationship_analysis_R.pdf)
 
 
-### Additional Analysis using R
+## Additional Analysis using R
 As part of the Bellabeat case study, statistical relationship analysis was conducted using R to complement the Power BI dashboard. Using ggplot2 and correlation methods, visualizations were created to explore the relationships between variables such as total steps, sleep efficiency, calories burned, and minutes asleep.
 
 The R analysis is available in the file  relationship_analysis_R.Rmd , which includes full code, visual outputs, and interpretations. This addition enhanced the depth of insights by confirming trends and quantifying relationships using correlation coefficients.
