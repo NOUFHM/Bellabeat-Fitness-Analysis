@@ -29,7 +29,7 @@ To identify patterns in physical activity, sleep behavior, and wellness that Bel
 - [Power BI Dashboard File (Pbix)](./Dashboards/Dashboards_Bellbeat.pbix) 
 - [R Analysis Report (Rmd)](./R_analysis/relationship_analysis_R.Rmd)  
 - [R Visual Report (HTML)](./R_analysis/relationship_analysis_R.html)
-- [R Visual Report (pdf)](./R_analysis/relationship_analysis_R.html)
+- [R Visual Report (pdf)](./R_analysis/relationship_analysis_R.pdf)
 
 
 ### Additional Analysis using R
