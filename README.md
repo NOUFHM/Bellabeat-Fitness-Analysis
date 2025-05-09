@@ -25,9 +25,12 @@ To identify patterns in physical activity, sleep behavior, and wellness that Bel
 - [Final Project Report (pdf)](./reports/Bellabeat_Project_With_Recommendations.pdf)
 - [Data_Cleaning_Steps (pdf)](./reports/Bellabeat_Project_With_Recommendations.pdf)
 - [Power BI Dashboard (Pdf)](./Dashboards/Bellabeat_Dashboard.pdf) 
-- [Power BI Dashboard (Pdf)](./Dashboards/Power_BI_Dashboards_Visual.pdf)  
+- [Power BI Dashboard (Pdf)](./Dashboards/Power_BI_Dashboards_Visual.pdf)
+- [Power BI Dashboard File (Pbix)](./Dashboards/Dashboards_Bellbeat.pbix) 
 - [R Analysis Report (Rmd)](./R_analysis/relationship_analysis_R.Rmd)  
 - [R Visual Report (HTML)](./R_analysis/relationship_analysis_R.html)
+- [R Visual Report (pdf)](./R_analysis/relationship_analysis_R.html)
+
 
 ### Additional Analysis using R
 As part of the Bellabeat case study, statistical relationship analysis was conducted using R to complement the Power BI dashboard. Using ggplot2 and correlation methods, visualizations were created to explore the relationships between variables such as total steps, sleep efficiency, calories burned, and minutes asleep.
