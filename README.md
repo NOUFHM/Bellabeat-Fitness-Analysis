@@ -1,5 +1,5 @@
-# Bellabeat-Fitness-Analysis
 # Bellabeat Case Study
+# Bellabeat-Fitness-Analysis
 **Date:** April 2025  
 **Author:** Nouf Alanazi
 
