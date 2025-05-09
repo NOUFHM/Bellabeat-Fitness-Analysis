@@ -43,6 +43,7 @@ The R analysis is available in the file  relationship_analysis_R.Rmd , which inc
 - Moderate activity had the strongest correlation with calorie burn  
 - Activity peaked in April and May 
 ##  Product Recommendation
+---
 ###  Recommended Product: Leaf
 - Tracks sleep, activity, breathing, and stress
 - Stylish and functional — ideal for Bellabeat’s female audience
@@ -58,5 +59,5 @@ With over 50% of users in the overweight category, tailored wellness programs—
 Many users sleep less than 6 hours on certain days. Adding features like bedtime reminders, sleep content, and progress tracking can help build healthy habits.
 5.	Launch Data-Driven Seasonal Campaigns
 Activity peaks during April and May. Use this seasonal behavior to time marketing campaigns, app challenges, or feature promotions for higher engagement.
-
+---
  ####  This analysis is Capstone Project frome   Google Data Analytics Professional Certificate | Coursera
