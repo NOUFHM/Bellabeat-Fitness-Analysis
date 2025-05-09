@@ -11,7 +11,7 @@ This project analyzes user activity and sleep data from Fitbit devices to identi
 ## Business Task
 To identify patterns in physical activity, sleep behavior, and wellness that Bellabeat can leverage to enhance its products and marketing strategy.
 
- ## Tools Used 🛠
+ ## Tools Used 
 - Power BI (dashboard design, data modeling, preprocessing, transformation)   
 - R (correlation analysis & visualization)
 
