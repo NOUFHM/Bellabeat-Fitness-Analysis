@@ -43,7 +43,6 @@ The R analysis is available in the file  relationship_analysis_R.Rmd , which inc
 - Moderate activity had the strongest correlation with calorie burn  
 - Activity peaked in April and May 
 ##  Product Recommendation
----
 ###  Recommended Product: Leaf
 - Tracks sleep, activity, breathing, and stress
 - Stylish and functional — ideal for Bellabeat’s female audience
