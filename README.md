@@ -1,6 +1,6 @@
 # Bellabeat Fitness Analysis
 # Bellabeat Case Study
- #### [This project was completed as part of theGoogle Data Analytics Professional Certificate | Coursera](https://www.coursera.org/professional-certificates/google-data-analytics/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s2_en_m_hyb_23-12_x&campaignid=20882109092&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6485735763&targetid=&extensionid=&placement=&gad_source=5&gad_campaignid=20875558740&gclid=EAIaIQobChMI_oKK7ISajQMV8lGRBR2tYSzREAAYASAAEgLcufD_BwE) offered by Coursera
+ #### [This project was completed as part of the Google Data Analytics Professional Certificate | Coursera](https://www.coursera.org/professional-certificates/google-data-analytics/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s2_en_m_hyb_23-12_x&campaignid=20882109092&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6485735763&targetid=&extensionid=&placement=&gad_source=5&gad_campaignid=20875558740&gclid=EAIaIQobChMI_oKK7ISajQMV8lGRBR2tYSzREAAYASAAEgLcufD_BwE)
 **Date:** April 2025  
 **Author:** Nouf Alanazi
 
