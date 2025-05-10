@@ -6,6 +6,9 @@
 **Author:** Nouf Alanazi
 
 ---
+
+
+
 ## Project Overview
 This project analyzes user activity and sleep data from Fitbit devices to identify trends and provide insights that help Bellabeat improve its product strategy. The analysis was conducted using Power BI, Excel, and R, and follows the Google Data Analytics Capstone process.
 
